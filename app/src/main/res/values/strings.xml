@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">compose_text</string>
+    <string name="basic_text">基础文本控件的显示</string>
+</resources>
